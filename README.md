@@ -10,4 +10,4 @@ Import the .icls colour scheme from your IDE settings.
 
 Full window using the Darcula theme:
 
-![Screenshot](https://raw.githubusercontent.com/francoiswnel/Monokai-Dark-Soda-for-JetBrains/master/screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/francoiswnel/Monokai-Bright-for-JetBrains/master/screenshot-bright.png)
